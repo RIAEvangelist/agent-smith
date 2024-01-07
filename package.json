@@ -1,9 +1,11 @@
 {
   "name": "agent-smith",
   "version": "0.0.1",
+  "type":"module",
   "description": "An agent to monitor your github account and others interactions with it.",
   "main": "smith.js",
   "scripts": {
+    "start":"node smith.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
