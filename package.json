@@ -1,0 +1,24 @@
+{
+  "name": "agent-smith",
+  "version": "0.0.1",
+  "description": "An agent to monitor your github account and others interactions with it.",
+  "main": "smith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIAEvangelist/agent-smith.git"
+  },
+  "keywords": [
+    "github",
+    "ai",
+    "monitoring"
+  ],
+  "author": "Brandon Nozaki Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RIAEvangelist/agent-smith/issues"
+  },
+  "homepage": "https://github.com/RIAEvangelist/agent-smith#readme"
+}
