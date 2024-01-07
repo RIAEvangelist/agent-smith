@@ -36,3 +36,4 @@ yarn-error.log
 # Ignore .pill files
 *.pill
 *pill.js
+*config_pill.js

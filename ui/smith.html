@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type='module' defer>
+            import {Smith} from '../smith.js';
+            import { GITHUB_USERNAME, GITHUB_TOKEN } from '../config_pill.js';
+
+            const smith = new Smith(GITHUB_USERNAME, GITHUB_TOKEN)
+
+            (async function(){
+                const notifications=await smith.notifications();
+
+                console.log(notifications)
+            })();
+        </script>
+    </head>
+    <body>
+
+    </body>
+</html>

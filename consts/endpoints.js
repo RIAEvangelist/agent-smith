@@ -1,4 +1,4 @@
 const base='https://api.github.com';
 
 
-export const notifications=`${base}/notifications`;
+export const GITHUB_NOTIFICATIONS=`${base}/notifications`;
