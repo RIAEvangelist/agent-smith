@@ -1,4 +1,4 @@
-import {GITHUB_USERNAME,GITHUB_TOKEN} from '.pill';
+import {GITHUB_USERNAME,GITHUB_TOKEN} from './.pill';
 import {notifications} from 'consts/endpoints.js';
 
 const headers = {
