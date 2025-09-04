@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/RIAEvangelist/agent-smith#readme",
   "devDependencies": {
-    "electron": "^28.1.1"
+    "electron": "^35.7.5"
   }
 }
